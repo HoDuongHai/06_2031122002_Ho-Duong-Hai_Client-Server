@@ -1,0 +1,20 @@
+E:\Code\C#\BTL_MangMayTinh_Client\Client\Client\bin\Debug\Client.exe.config
+E:\Code\C#\BTL_MangMayTinh_Client\Client\Client\bin\Debug\Client.exe
+E:\Code\C#\BTL_MangMayTinh_Client\Client\Client\bin\Debug\Client.pdb
+E:\Code\C#\BTL_MangMayTinh_Client\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Code\C#\BTL_MangMayTinh_Client\Client\Client\obj\Debug\Client.Form1.resources
+E:\Code\C#\BTL_MangMayTinh_Client\Client\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Code\C#\BTL_MangMayTinh_Client\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\Code\C#\BTL_MangMayTinh_Client\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Code\C#\BTL_MangMayTinh_Client\Client\Client\obj\Debug\Client.exe
+E:\Code\C#\BTL_MangMayTinh_Client\Client\Client\obj\Debug\Client.pdb
+C:\Users\duong\OneDrive\Máy tính\Chia se file dung co che server - client\BTL_MangMayTinh_Client\Client\Client\bin\Debug\Client.exe.config
+C:\Users\duong\OneDrive\Máy tính\Chia se file dung co che server - client\BTL_MangMayTinh_Client\Client\Client\bin\Debug\Client.exe
+C:\Users\duong\OneDrive\Máy tính\Chia se file dung co che server - client\BTL_MangMayTinh_Client\Client\Client\bin\Debug\Client.pdb
+C:\Users\duong\OneDrive\Máy tính\Chia se file dung co che server - client\BTL_MangMayTinh_Client\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\duong\OneDrive\Máy tính\Chia se file dung co che server - client\BTL_MangMayTinh_Client\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\duong\OneDrive\Máy tính\Chia se file dung co che server - client\BTL_MangMayTinh_Client\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\duong\OneDrive\Máy tính\Chia se file dung co che server - client\BTL_MangMayTinh_Client\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\duong\OneDrive\Máy tính\Chia se file dung co che server - client\BTL_MangMayTinh_Client\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\duong\OneDrive\Máy tính\Chia se file dung co che server - client\BTL_MangMayTinh_Client\Client\Client\obj\Debug\Client.exe
+C:\Users\duong\OneDrive\Máy tính\Chia se file dung co che server - client\BTL_MangMayTinh_Client\Client\Client\obj\Debug\Client.pdb
