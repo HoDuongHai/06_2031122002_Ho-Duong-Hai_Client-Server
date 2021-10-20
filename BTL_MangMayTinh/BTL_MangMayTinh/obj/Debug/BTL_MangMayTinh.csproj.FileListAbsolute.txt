@@ -1,0 +1,29 @@
+D:\Code\C#\BTL_MangMayTinh\BTL_MangMayTinh\bin\Debug\BTL_MangMayTinh.exe.config
+D:\Code\C#\BTL_MangMayTinh\BTL_MangMayTinh\bin\Debug\BTL_MangMayTinh.exe
+D:\Code\C#\BTL_MangMayTinh\BTL_MangMayTinh\bin\Debug\BTL_MangMayTinh.pdb
+D:\Code\C#\BTL_MangMayTinh\BTL_MangMayTinh\obj\Debug\BTL_MangMayTinh.csprojResolveAssemblyReference.cache
+D:\Code\C#\BTL_MangMayTinh\BTL_MangMayTinh\obj\Debug\BTL_MangMayTinh.Properties.Resources.resources
+D:\Code\C#\BTL_MangMayTinh\BTL_MangMayTinh\obj\Debug\BTL_MangMayTinh.csproj.GenerateResource.Cache
+D:\Code\C#\BTL_MangMayTinh\BTL_MangMayTinh\obj\Debug\BTL_MangMayTinh.exe
+D:\Code\C#\BTL_MangMayTinh\BTL_MangMayTinh\obj\Debug\BTL_MangMayTinh.pdb
+D:\Code\C#\BTL_MangMayTinh\BTL_MangMayTinh\obj\Debug\BTL_MangMayTinh.Server.resources
+E:\Code\C#\BTL_MangMayTinh\BTL_MangMayTinh\bin\Debug\BTL_MangMayTinh.exe.config
+E:\Code\C#\BTL_MangMayTinh\BTL_MangMayTinh\bin\Debug\BTL_MangMayTinh.exe
+E:\Code\C#\BTL_MangMayTinh\BTL_MangMayTinh\bin\Debug\BTL_MangMayTinh.pdb
+E:\Code\C#\BTL_MangMayTinh\BTL_MangMayTinh\obj\Debug\BTL_MangMayTinh.csprojResolveAssemblyReference.cache
+E:\Code\C#\BTL_MangMayTinh\BTL_MangMayTinh\obj\Debug\BTL_MangMayTinh.Server.resources
+E:\Code\C#\BTL_MangMayTinh\BTL_MangMayTinh\obj\Debug\BTL_MangMayTinh.Properties.Resources.resources
+E:\Code\C#\BTL_MangMayTinh\BTL_MangMayTinh\obj\Debug\BTL_MangMayTinh.csproj.GenerateResource.Cache
+E:\Code\C#\BTL_MangMayTinh\BTL_MangMayTinh\obj\Debug\BTL_MangMayTinh.csproj.CoreCompileInputs.cache
+E:\Code\C#\BTL_MangMayTinh\BTL_MangMayTinh\obj\Debug\BTL_MangMayTinh.exe
+E:\Code\C#\BTL_MangMayTinh\BTL_MangMayTinh\obj\Debug\BTL_MangMayTinh.pdb
+C:\Users\duong\OneDrive\Máy tính\Chia se file dung co che server - client\BTL_MangMayTinh\BTL_MangMayTinh\bin\Debug\BTL_MangMayTinh.exe.config
+C:\Users\duong\OneDrive\Máy tính\Chia se file dung co che server - client\BTL_MangMayTinh\BTL_MangMayTinh\bin\Debug\BTL_MangMayTinh.exe
+C:\Users\duong\OneDrive\Máy tính\Chia se file dung co che server - client\BTL_MangMayTinh\BTL_MangMayTinh\bin\Debug\BTL_MangMayTinh.pdb
+C:\Users\duong\OneDrive\Máy tính\Chia se file dung co che server - client\BTL_MangMayTinh\BTL_MangMayTinh\obj\Debug\BTL_MangMayTinh.csproj.AssemblyReference.cache
+C:\Users\duong\OneDrive\Máy tính\Chia se file dung co che server - client\BTL_MangMayTinh\BTL_MangMayTinh\obj\Debug\BTL_MangMayTinh.Server.resources
+C:\Users\duong\OneDrive\Máy tính\Chia se file dung co che server - client\BTL_MangMayTinh\BTL_MangMayTinh\obj\Debug\BTL_MangMayTinh.Properties.Resources.resources
+C:\Users\duong\OneDrive\Máy tính\Chia se file dung co che server - client\BTL_MangMayTinh\BTL_MangMayTinh\obj\Debug\BTL_MangMayTinh.csproj.GenerateResource.cache
+C:\Users\duong\OneDrive\Máy tính\Chia se file dung co che server - client\BTL_MangMayTinh\BTL_MangMayTinh\obj\Debug\BTL_MangMayTinh.csproj.CoreCompileInputs.cache
+C:\Users\duong\OneDrive\Máy tính\Chia se file dung co che server - client\BTL_MangMayTinh\BTL_MangMayTinh\obj\Debug\BTL_MangMayTinh.exe
+C:\Users\duong\OneDrive\Máy tính\Chia se file dung co che server - client\BTL_MangMayTinh\BTL_MangMayTinh\obj\Debug\BTL_MangMayTinh.pdb
